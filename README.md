@@ -10,7 +10,7 @@ Skills: Data Analysis, Conditional Logic, Pivot Tables, Data Visualization, Budg
 
 Technology: Excel
 
---  
+---  
 
 ## Financial Analysis & Loan Amortization
 File: Financial_Analysis.xlsx
@@ -19,7 +19,7 @@ Description: Developed a financial analysis model to assess loan amortization, t
 
 Skills: Financial Modeling, Loan Amortization, Data Visualization, Conditional Logic, Pivot Tables, Mortgage Analysis
 
---  
+---  
 
 ## Gym Membership Data Analysis
 File: Gym_Membership_Analysis.xlsx
@@ -30,7 +30,7 @@ Skills: Data Cleaning, Data Organization, Data Analysis, Pivot Tables, Condition
 
 Technology: Excel
 
---  
+---  
 
 ## Library Sales & Royalties Analysis
 File: Library_Sales_Analysis.xlsx
