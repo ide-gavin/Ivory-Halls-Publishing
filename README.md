@@ -8,8 +8,6 @@ Description: Analyzed sales, employee performance, budgeting, inventory, and cus
 
 Skills: Data Analysis, Conditional Logic, Pivot Tables, Data Visualization, Budgeting, Inventory Management
 
-Technology: Excel
-
 ---  
 
 ## Financial Analysis & Loan Amortization
